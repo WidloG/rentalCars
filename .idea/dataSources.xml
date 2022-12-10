@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="5451778c-d2d4-4ddc-b58a-54665f28c4b6">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Gabriela Widło/OneDrive/Pulpit/ /Programowanie aplikacji okienkowych i mobilnych/rentalCars/src/main/java/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbrents</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
