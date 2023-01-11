@@ -13,4 +13,9 @@
       <module name="rentalCars" target="11" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rentalCars" options="--add-exports java.base/sun.util=ALL-UNNAMED --add-exports java.base/sun.util.calendar=ALL-UNNAMED" />
+    </option>
+  </component>
 </project>

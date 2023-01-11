@@ -15,6 +15,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
+          <factory-entry name="default" value="8d3df266-e766-466c-b84a-40dbef9cf735" />
           <factory-entry name="rentalCars" value="5451778c-d2d4-4ddc-b58a-54665f28c4b6" />
         </datasource-mapping>
         <naming-strategy-map />
